@@ -1,0 +1,10 @@
+/NA_Config/
+/.vscode-server
+/.cache
+/.config
+/.ssh
+/.docker
+/.dotnet
+/.bash_history
+/.wget-hsts
+.gitconfig
